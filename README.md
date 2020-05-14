@@ -1,2 +1,0 @@
-# wikitest
-Testing github wikis
